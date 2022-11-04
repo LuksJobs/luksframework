@@ -1,6 +1,6 @@
 # Change baseurl before deploy
 baseurl = "https://luksjobs.github.io/"
-languageCode = "en-us"
+languageCode = "pt-br"
 paginate = 5
 title = "Luks Jobs - Blog"
 
